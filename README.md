@@ -1,1 +1,1 @@
-# minecraft-server
+cd minecraft-server
